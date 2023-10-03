@@ -27,5 +27,11 @@
     <ClCompile Include="5988_홀수일까 짝수일까.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7572_간지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11943_파일옮기기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
