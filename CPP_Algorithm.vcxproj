@@ -139,6 +139,7 @@
     <ClCompile Include="11943_파일옮기기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1225_이상한곱셈.cpp" />
     <ClCompile Include="5988_홀수일까 짝수일까.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
