@@ -45,5 +45,8 @@
     <ClCompile Include="2669_직사각형 네개의 합집합의 면적 구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9455_박스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
