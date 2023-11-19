@@ -48,5 +48,8 @@
     <ClCompile Include="9455_박스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2935번_소음.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
