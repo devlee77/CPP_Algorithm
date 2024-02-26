@@ -57,5 +57,11 @@
     <ClCompile Include="1269_대칭 차집합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1673_치킨 구폰.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2163_초콜릿 자르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
